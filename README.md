@@ -1,6 +1,6 @@
 # Kindle Vocab Exporter
 A simple python script for exporting your new added words from *Kindle Vocabulary Builder* to **Mac**.
-Just connect your Kindle and choose your favorate folder for storing output files!
+Just connect your Kindle and choose your favorite folder for storing output files!
 
 For each execution, a timestamped **.csv** file and **.db** file will be generated inside this script's directory.
 - The **.csv** file contains new added words delimited by space.
